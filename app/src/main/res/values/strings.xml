@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My homework</string>
+    <string name="action_settings">設定</string>
+    <string name="hello">你好</string>
+</resources>
